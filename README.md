@@ -1,2 +1,1 @@
-# reverse_shell
-reverse shell with ps1.
+u must use netcat on linux.
